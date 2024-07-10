@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.760748d8.css",
+    "main.js": "/static/js/main.2d9c292e.js",
+    "static/media/special3.jpg": "/static/media/special3.32b131c4cb7b95937452.jpg",
+    "static/media/blog.jpg": "/static/media/blog.a7fe53c725fff64a1705.jpg",
+    "static/media/design.png": "/static/media/design.18eee78f1feb69a0bed8.png",
+    "static/media/data5.jpg": "/static/media/data5.f2ccc382ee10f0af4f22.jpg",
+    "static/media/team.png": "/static/media/team.f7a8304709b0f87e0b39.png",
+    "static/media/strategy.png": "/static/media/strategy.801e1ffb3f2c04d0683d.png",
+    "static/media/special5.jpg": "/static/media/special5.fb6568b55f207ee72fe3.jpg",
+    "static/media/presentation.png": "/static/media/presentation.71bae271037efbb76835.png",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.6a9b5d13a17af8170ceb.jpg",
+    "static/media/logo.png": "/static/media/logo.f1a4e1b5817e315774cc.png",
+    "static/media/avatar.jpg": "/static/media/avatar.0c355c5724b11b8f6134.jpg",
+    "static/media/banner.jpg": "/static/media/banner.9724b20e701adb667c72.jpg",
+    "static/media/technologe.jpg": "/static/media/technologe.b9a418ce1d7cbf396ca6.jpg",
+    "static/media/defaultUser.jpg": "/static/media/defaultUser.af17b1379139e3be4d89.jpg",
+    "static/media/doctor 3.jpg": "/static/media/doctor 3.9a5f50d9e1dce3d79dd9.jpg",
+    "static/media/special1.jpg": "/static/media/special1.4c57554697f7a43f6a7b.jpg",
+    "static/media/special2.jpg": "/static/media/special2.343d38c248d64f771ec5.jpg",
+    "static/media/contact.jpg": "/static/media/contact.d92ad20f9e7e87520f41.jpg",
+    "static/media/content.png": "/static/media/content.b19169b8491eb496373b.png",
+    "static/media/info.svg": "/static/media/info.4715ac4b40e0642cbd47c6259dec9057.svg",
+    "static/media/register.svg": "/static/media/register.c806b0814bdd52a1b23cf67f5052f5ff.svg",
+    "static/media/blogIcon.png": "/static/media/blogIcon.c322f577cf7372c45a5f.png",
+    "index.html": "/index.html",
+    "main.760748d8.css.map": "/static/css/main.760748d8.css.map",
+    "main.2d9c292e.js.map": "/static/js/main.2d9c292e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760748d8.css",
+    "static/js/main.2d9c292e.js"
+  ]
+}
